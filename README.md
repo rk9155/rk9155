@@ -1,9 +1,3 @@
-### Skills ###
-----------------------------------------------------------------------------------------------------------------------------
-- Languages - **Java, Python, HTML, CSS, JavaScript**
-- Libraries/Frameworks: - **Bootstrap, NodeJS, ExpressJS, JQuery**
-- Databases/ODM: - **MySQL, MongoDB**
-- Tools: - **VS Code, Git, Github, Chrome Developer Tools**
 
 ### Stats ###
 ----------------------------------------------------------------------------------------------------------------------------
